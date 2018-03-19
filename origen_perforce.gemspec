@@ -5,8 +5,8 @@ require "#{config}/version"
 Gem::Specification.new do |spec|
   spec.name          = "origen_perforce"
   spec.version       = OrigenPerforce::VERSION
-  spec.authors       = ["Stephen McGinty"]
-  spec.email         = ["stephen.f.mcginty@gmail.com"]
+  spec.authors       = ["Brian Caquelin"]
+  spec.email         = ["brian.caquelin@amd.com"]
   spec.summary       = "Origen revision control driver for Perforce"
   #spec.homepage      = "http://origen-sdk.org/origen_perforce"
 
