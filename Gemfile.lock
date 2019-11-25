@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    origen_perforce (0.3.0)
+    origen_perforce (0.4.0)
       origen (>= 0.33.0)
       p4ruby (~> 2017.1, >= 2017.1.1699426)
 
