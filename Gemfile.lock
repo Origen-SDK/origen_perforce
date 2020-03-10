@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    origen_perforce (0.4.0)
+    origen_perforce (0.5.0)
       origen (>= 0.33.0)
       p4ruby (~> 2019.1, >= 2019.1.1873991)
 
@@ -82,7 +82,6 @@ GEM
     origen_doc_helpers (0.8.2)
       origen (>= 0.7.15)
     p4ruby (2019.1.1873991)
-    p4ruby (2019.1.1873991-x64-mingw32)
     parser (2.6.5.0)
       ast (~> 2.4.0)
     powerpack (0.1.2)
