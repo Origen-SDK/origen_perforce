@@ -25,5 +25,6 @@ Gem::Specification.new do |spec|
 
   # Add any gems that your plugin needs to run within a host application
   spec.add_runtime_dependency 'origen', '>= 0.33.0'
-  spec.add_runtime_dependency 'p4ruby', '~> 2019.1', '>= 2019.1.1873991'
+  #spec.add_runtime_dependency 'p4ruby', '~> 2019.1', '>= 2019.1.1873991'
+  spec.add_runtime_dependency 'p4ruby', '~>2023.1'
 end
