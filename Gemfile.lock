@@ -3,7 +3,7 @@ PATH
   specs:
     origen_perforce (0.5.0)
       origen (>= 0.33.0)
-      p4ruby (~> 2023.1)
+      p4ruby (~> 2023.1, >= 2023.1.2446234)
 
 GEM
   remote: https://rubygems.org/
